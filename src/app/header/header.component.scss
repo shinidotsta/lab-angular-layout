@@ -1,0 +1,23 @@
+header{
+    background-color: orangered;
+    padding: 1em 0;
+}
+h1
+{
+    color: #ffffff;
+}
+nav{
+float: left;
+}
+ul
+{
+    list-style-type: none;
+    display: flex;
+    
+}
+li a{
+    color: black;
+    text-decoration: none;
+    padding: 1em;
+    font-weight: bold;
+}
